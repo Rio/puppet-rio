@@ -6,4 +6,8 @@ class gui {
     package { "slim":
         ensure => installed,
     }
+
+    package { "lxterminal":
+        ensure => installed,
+    }
 }
