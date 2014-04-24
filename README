@@ -1,8 +1,13 @@
 Applications:
     * sudo
-    * vim
     * git
     * i3
     * pass
     * gnupg2
     * cryptsetup
+    * bpython
+    * qtcreator
+    * meld
+    * clusterssh
+    * vagrant
+    * virtualbox
