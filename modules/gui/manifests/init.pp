@@ -10,4 +10,9 @@ class gui {
     package { "lxterminal":
         ensure => installed,
     }
+
+    package { "xautolock":
+        ensure => installed,
+    }
+
 }
