@@ -1,7 +1,7 @@
-# My perfect setup
-
 Applications:
     * sudo
     * vim
     * git
     * i3
+    * pass
+    * gnupg2
