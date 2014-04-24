@@ -1,13 +1,32 @@
 Applications:
-    * sudo
-    * git
-    * i3
-    * pass
-    * gnupg2
-    * cryptsetup
-    * bpython
-    * qtcreator
-    * meld
-    * clusterssh
-    * vagrant
-    * virtualbox
+    * basic commandline tools:
+        * sudo (also adds user to sudo group)
+        * vim
+
+    * encryption and security:
+	* pass
+	* gnupg2
+	* cryptsetup
+
+    * Graphical User Interface:
+        * i3
+        * slim
+
+    * Network:
+        * network-manager
+        * network-manager-pptp
+        * ssh
+        * clusterssh
+
+    * Internet Tools:
+        * chromium
+        * icedove
+
+    * Development Tools:
+        * build-essential
+        * git
+	* bpython
+	* qtcreator
+	* meld
+	* vagrant
+        * virtualbox
