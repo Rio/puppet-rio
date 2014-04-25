@@ -19,9 +19,9 @@ class dev-tools {
         ensure => installed,
     }
 
-    package { "vagrant":
-        ensure => installed,
-    }
+#    package { "vagrant":
+#        ensure => installed,
+#    }
 
     package { "virtualbox":
         ensure => installed,
